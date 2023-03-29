@@ -1,0 +1,48 @@
+[33mcommit ee3935bdfd7b58c433e424f38544f9bfc45e5824[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: ae05172 64ebb42
+Author: Gwendal_NATURE <gwendal.nature@supdevinci-edu.fr>
+Date:   Wed Mar 29 11:27:44 2023 +0200
+
+    Merge branch 'feature/tache-2'
+
+[33mcommit 64ebb422c80599ad0f842f6a6f37a37f8ca94382[m[33m ([m[1;32mfeature/tache-2[m[33m)[m
+Author: Gwendal_NATURE <gwendal.nature@supdevinci-edu.fr>
+Date:   Wed Mar 29 10:48:01 2023 +0200
+
+    feat(tache-2) : fin tache 2
+
+[33mcommit 00f246e569e4928830c3d46972666766470d56a2[m
+Author: Gwendal_NATURE <gwendal.nature@supdevinci-edu.fr>
+Date:   Wed Mar 29 10:47:09 2023 +0200
+
+    feat(tache-2) : mise a joure tache 2
+
+[33mcommit fbc94094407afcaa252271f5dc9a2271a3c57f24[m
+Author: Gwendal_NATURE <gwendal.nature@supdevinci-edu.fr>
+Date:   Wed Mar 29 10:45:49 2023 +0200
+
+    feat(tache-) : debut nouvelle tache
+
+[33mcommit ae05172f0a84658704cb3728b91a4b4938074d03[m
+Author: Gwendal_NATURE <gwendal.nature@supdevinci-edu.fr>
+Date:   Wed Mar 29 10:27:21 2023 +0200
+
+    tata.txt est suprimé
+
+[33mcommit 1d49e2b4f9a02919d2342512f8f06500b4ef4666[m
+Author: Gwendal_NATURE <gwendal.nature@supdevinci-edu.fr>
+Date:   Wed Mar 29 10:22:13 2023 +0200
+
+    ajout du fichier tata.txt
+
+[33mcommit f9d07c2f998b89a9d2af59430b120159f038b958[m
+Author: Gwendal_NATURE <gwendal.nature@supdevinci-edu.fr>
+Date:   Wed Mar 29 10:19:15 2023 +0200
+
+    modofication du document toto.txt
+
+[33mcommit 4efe5011a3265195a1d4034cdd6ba940ac1a4c56[m
+Author: Gwendal_NATURE <gwendal.nature@supdevinci-edu.fr>
+Date:   Wed Mar 29 10:05:03 2023 +0200
+
+    ajout du nouveaux ficher toto.txt
